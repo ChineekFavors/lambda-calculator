@@ -1,0 +1,21 @@
+.container{
+	background-color: red;
+	width: 30%;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+.numberButtons{
+	border: 2px solid black;
+	width: 70px;
+	background-color: blue;
+}
+
+.operatorbuttons{
+	background-color: green;
+	position: relative;
+	left: 75px;
+	bottom: 88px;
+	width: 30px;
+}
+
