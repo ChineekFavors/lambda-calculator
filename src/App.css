@@ -1,20 +1,20 @@
 .container{
 	background-color: red;
-	width: 30%;
+	width: 20%;
 	margin: 0 auto;
 	border-radius: 10px;
 }
 
 .numberButtons{
 	width: 85px;
-border: 2px solid black;
+	
 }
 
 .operatorbuttons{
-	background-color: green;
+	
 	position: relative;
 	left: 83px;
-	bottom: 104px;
+	bottom: 100px;
 	width: 30px;
 }
 
@@ -33,12 +33,18 @@ border: 2px solid black;
 	margin-right: 4.8%;
 }
 
+
 .specialButton{
 	border-radius: 50%;
 	color: white;
 	background-color: rgb(11, 93, 155);
 }
 
+.operationButton{
+	color: white;
+	background-color: rgb(0, 114, 145);
+	border-radius: 50%;
+}
 
 
 
