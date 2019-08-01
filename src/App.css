@@ -6,10 +6,8 @@
 }
 
 .numberButtons{
-	border: 2px solid black;
-	width: 74px;
-	background-color: blue;
-
+	width: 85px;
+border: 2px solid black;
 }
 
 .operatorbuttons{
@@ -19,4 +17,34 @@
 	bottom: 104px;
 	width: 30px;
 }
+
+.display{
+	border: 2px solid black;
+	border-radius: 10px;
+	color: white;
+	width: 110px;
+	text-align: right;
+}
+
+.button{
+	color: white;
+	background-color: rgb(9, 66, 118);
+	border-radius: 50%;
+	margin-right: 4.8%;
+}
+
+.specialButton{
+	border-radius: 50%;
+	color: white;
+	background-color: rgb(11, 93, 155);
+}
+
+
+
+
+
+
+
+
+
 
